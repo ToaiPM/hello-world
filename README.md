@@ -1,2 +1,2 @@
-# hello-world
-Tham gia dự án
+# Chào thế giới
+toi la nguyen tan  toai
